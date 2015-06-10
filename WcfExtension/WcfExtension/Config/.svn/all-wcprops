@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/SourceCode/!svn/ver/41299/Aot/Dev/WcfExtension/WcfExtension/Config
+END
+ServerLogConfig.cs
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/SourceCode/!svn/ver/41055/Aot/Dev/WcfExtension/WcfExtension/Config/ServerLogConfig.cs
+END
+IWcfConfigService.cs
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/SourceCode/!svn/ver/41733/Aot/Dev/WcfExtension/WcfExtension/Config/IWcfConfigService.cs
+END
+WcfClientEndpoint.cs
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/SourceCode/!svn/ver/41708/Aot/Dev/WcfExtension/WcfExtension/Config/WcfClientEndpoint.cs
+END
+WcfEndpoint.cs
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/SourceCode/!svn/ver/41055/Aot/Dev/WcfExtension/WcfExtension/Config/WcfEndpoint.cs
+END
+WcfService.cs
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/SourceCode/!svn/ver/41299/Aot/Dev/WcfExtension/WcfExtension/Config/WcfService.cs
+END
+WcfServiceEndpoint.cs
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/SourceCode/!svn/ver/41055/Aot/Dev/WcfExtension/WcfExtension/Config/WcfServiceEndpoint.cs
+END
+ConfigUpdateManager.cs
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/SourceCode/!svn/ver/41055/Aot/Dev/WcfExtension/WcfExtension/Config/ConfigUpdateManager.cs
+END
+ClientLogConfig.cs
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/SourceCode/!svn/ver/41055/Aot/Dev/WcfExtension/WcfExtension/Config/ClientLogConfig.cs
+END
+LogConfig.cs
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/SourceCode/!svn/ver/41055/Aot/Dev/WcfExtension/WcfExtension/Config/LogConfig.cs
+END
+WcfBinding.cs
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/SourceCode/!svn/ver/41055/Aot/Dev/WcfExtension/WcfExtension/Config/WcfBinding.cs
+END

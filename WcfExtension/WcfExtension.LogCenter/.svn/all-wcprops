@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/SourceCode/!svn/ver/41299/Aot/Dev/WcfExtension/WcfExtension.LogCenter
+END
+Global.asax.cs
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/SourceCode/!svn/ver/40520/Aot/Dev/WcfExtension/WcfExtension.LogCenter/Global.asax.cs
+END
+Web.Release.config
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/SourceCode/!svn/ver/39574/Aot/Dev/WcfExtension/WcfExtension.LogCenter/Web.Release.config
+END
+Web.config
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/SourceCode/!svn/ver/40959/Aot/Dev/WcfExtension/WcfExtension.LogCenter/Web.config
+END
+Default.aspx.designer.cs
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/SourceCode/!svn/ver/40517/Aot/Dev/WcfExtension/WcfExtension.LogCenter/Default.aspx.designer.cs
+END
+Default.aspx.cs
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/SourceCode/!svn/ver/39574/Aot/Dev/WcfExtension/WcfExtension.LogCenter/Default.aspx.cs
+END
+Web.Debug.config
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/SourceCode/!svn/ver/39574/Aot/Dev/WcfExtension/WcfExtension.LogCenter/Web.Debug.config
+END
+WcfLogService.cs
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/SourceCode/!svn/ver/41708/Aot/Dev/WcfExtension/WcfExtension.LogCenter/WcfLogService.cs
+END
+WcfExtension.LogCenter.csproj.user
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/SourceCode/!svn/ver/41060/Aot/Dev/WcfExtension/WcfExtension.LogCenter/WcfExtension.LogCenter.csproj.user
+END
+Global.asax
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/SourceCode/!svn/ver/40520/Aot/Dev/WcfExtension/WcfExtension.LogCenter/Global.asax
+END
+WcfExtension.LogCenter.csproj
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/SourceCode/!svn/ver/41110/Aot/Dev/WcfExtension/WcfExtension.LogCenter/WcfExtension.LogCenter.csproj
+END
+WcfLogService.svc
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/SourceCode/!svn/ver/40958/Aot/Dev/WcfExtension/WcfExtension.LogCenter/WcfLogService.svc
+END
+Default.aspx
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/SourceCode/!svn/ver/40517/Aot/Dev/WcfExtension/WcfExtension.LogCenter/Default.aspx
+END

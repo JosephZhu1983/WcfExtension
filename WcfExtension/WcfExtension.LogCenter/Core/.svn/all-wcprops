@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/SourceCode/!svn/ver/41150/Aot/Dev/WcfExtension/WcfExtension.LogCenter/Core
+END
+MemoryQueue.cs
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/SourceCode/!svn/ver/41150/Aot/Dev/WcfExtension/WcfExtension.LogCenter/Core/MemoryQueue.cs
+END
+ConfigProvider.cs
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/SourceCode/!svn/ver/40520/Aot/Dev/WcfExtension/WcfExtension.LogCenter/Core/ConfigProvider.cs
+END
+PerformanceCounterItem.cs
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/SourceCode/!svn/ver/40520/Aot/Dev/WcfExtension/WcfExtension.LogCenter/Core/PerformanceCounterItem.cs
+END
+LogService.cs
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/SourceCode/!svn/ver/40520/Aot/Dev/WcfExtension/WcfExtension.LogCenter/Core/LogService.cs
+END
+NoSqlMongoDB.cs
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/SourceCode/!svn/ver/40520/Aot/Dev/WcfExtension/WcfExtension.LogCenter/Core/NoSqlMongoDB.cs
+END
+WcfLogService.cs
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/SourceCode/!svn/ver/40520/Aot/Dev/WcfExtension/WcfExtension.LogCenter/Core/WcfLogService.cs
+END
+MongoDBUtil.cs
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/SourceCode/!svn/ver/40520/Aot/Dev/WcfExtension/WcfExtension.LogCenter/Core/MongoDBUtil.cs
+END
+CommonService.cs
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/SourceCode/!svn/ver/40520/Aot/Dev/WcfExtension/WcfExtension.LogCenter/Core/CommonService.cs
+END

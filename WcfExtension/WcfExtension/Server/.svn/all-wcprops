@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/SourceCode/!svn/ver/41055/Aot/Dev/WcfExtension/WcfExtension/Server
+END
+OperationInvoker.cs
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/SourceCode/!svn/ver/41804/Aot/Dev/WcfExtension/WcfExtension/Server/OperationInvoker.cs
+END
+ServerApplicationContext.cs
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/SourceCode/!svn/ver/41055/Aot/Dev/WcfExtension/WcfExtension/Server/ServerApplicationContext.cs
+END
+OperationBehavior.cs
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/SourceCode/!svn/ver/41055/Aot/Dev/WcfExtension/WcfExtension/Server/OperationBehavior.cs
+END
+ServerManager.cs
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/SourceCode/!svn/ver/41055/Aot/Dev/WcfExtension/WcfExtension/Server/ServerManager.cs
+END
+ServerMessageInspector.cs
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/SourceCode/!svn/ver/41900/Aot/Dev/WcfExtension/WcfExtension/Server/ServerMessageInspector.cs
+END
+WcfServiceHostFactory.cs
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/SourceCode/!svn/ver/41804/Aot/Dev/WcfExtension/WcfExtension/Server/WcfServiceHostFactory.cs
+END
+ActionInerceptBehavior.cs
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/SourceCode/!svn/ver/41055/Aot/Dev/WcfExtension/WcfExtension/Server/ActionInerceptBehavior.cs
+END
+ErrorHandler.cs
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/SourceCode/!svn/ver/41804/Aot/Dev/WcfExtension/WcfExtension/Server/ErrorHandler.cs
+END
+UnityInstanceProvider.cs
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/SourceCode/!svn/ver/41055/Aot/Dev/WcfExtension/WcfExtension/Server/UnityInstanceProvider.cs
+END
+UnityServiceBehavior.cs
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/SourceCode/!svn/ver/41055/Aot/Dev/WcfExtension/WcfExtension/Server/UnityServiceBehavior.cs
+END
+ServiceErrorBehavior.cs
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/SourceCode/!svn/ver/41055/Aot/Dev/WcfExtension/WcfExtension/Server/ServiceErrorBehavior.cs
+END

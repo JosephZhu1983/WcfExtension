@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/SourceCode/!svn/ver/40520/Aot/Dev/WcfExtension/WcfExtension.LogCenter/Config
+END
+Memcached.config
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/SourceCode/!svn/ver/40520/Aot/Dev/WcfExtension/WcfExtension.LogCenter/Config/Memcached.config
+END
+WcfLogServer.config
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/SourceCode/!svn/ver/40520/Aot/Dev/WcfExtension/WcfExtension.LogCenter/Config/WcfLogServer.config
+END

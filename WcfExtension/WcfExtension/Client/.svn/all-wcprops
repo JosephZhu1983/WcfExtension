@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/SourceCode/!svn/ver/41299/Aot/Dev/WcfExtension/WcfExtension/Client
+END
+ServiceLocator.cs
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/SourceCode/!svn/ver/41483/Aot/Dev/WcfExtension/WcfExtension/Client/ServiceLocator.cs
+END
+ServiceRealProxy.cs
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/SourceCode/!svn/ver/41804/Aot/Dev/WcfExtension/WcfExtension/Client/ServiceRealProxy.cs
+END
+ClientApplicationContext.cs
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/SourceCode/!svn/ver/41055/Aot/Dev/WcfExtension/WcfExtension/Client/ClientApplicationContext.cs
+END
+WcfServiceClientFactory.cs
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/SourceCode/!svn/ver/41804/Aot/Dev/WcfExtension/WcfExtension/Client/WcfServiceClientFactory.cs
+END
+LogServiceRealProxy.cs
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/SourceCode/!svn/ver/41055/Aot/Dev/WcfExtension/WcfExtension/Client/LogServiceRealProxy.cs
+END
+WcfChannelWrapper.cs
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/SourceCode/!svn/ver/41055/Aot/Dev/WcfExtension/WcfExtension/Client/WcfChannelWrapper.cs
+END
+ClientMessageInspector.cs
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/SourceCode/!svn/ver/41900/Aot/Dev/WcfExtension/WcfExtension/Client/ClientMessageInspector.cs
+END

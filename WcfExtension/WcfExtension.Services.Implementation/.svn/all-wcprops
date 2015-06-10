@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/SourceCode/!svn/ver/41299/Aot/Dev/WcfExtension/WcfExtension.Services.Implementation
+END
+ILogService.cs
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/SourceCode/!svn/ver/39286/Aot/Dev/WcfExtension/WcfExtension.Services.Implementation/ILogService.cs
+END
+WcfExtension.Services.Implementation.csproj
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/SourceCode/!svn/ver/39286/Aot/Dev/WcfExtension/WcfExtension.Services.Implementation/WcfExtension.Services.Implementation.csproj
+END
+TestService.cs
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/SourceCode/!svn/ver/41483/Aot/Dev/WcfExtension/WcfExtension.Services.Implementation/TestService.cs
+END
+LogService.cs
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/SourceCode/!svn/ver/41128/Aot/Dev/WcfExtension/WcfExtension.Services.Implementation/LogService.cs
+END
+WcfExtension.Services.Implementation.csproj.user
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/SourceCode/!svn/ver/39623/Aot/Dev/WcfExtension/WcfExtension.Services.Implementation/WcfExtension.Services.Implementation.csproj.user
+END

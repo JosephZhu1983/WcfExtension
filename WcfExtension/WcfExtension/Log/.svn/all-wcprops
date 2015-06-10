@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/SourceCode/!svn/ver/41299/Aot/Dev/WcfExtension/WcfExtension/Log
+END
+IWcfLogService.cs
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/SourceCode/!svn/ver/41055/Aot/Dev/WcfExtension/WcfExtension/Log/IWcfLogService.cs
+END
+LocalLogService.cs
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/SourceCode/!svn/ver/41708/Aot/Dev/WcfExtension/WcfExtension/Log/LocalLogService.cs
+END
+AbstractLogInfo.cs
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/SourceCode/!svn/ver/41055/Aot/Dev/WcfExtension/WcfExtension/Log/AbstractLogInfo.cs
+END
+MessageDirection.cs
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/SourceCode/!svn/ver/41055/Aot/Dev/WcfExtension/WcfExtension/Log/MessageDirection.cs
+END
+PersistenceColumnAttribute.cs
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/SourceCode/!svn/ver/41055/Aot/Dev/WcfExtension/WcfExtension/Log/PersistenceColumnAttribute.cs
+END
+ServerMessageInfo.cs
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/SourceCode/!svn/ver/41299/Aot/Dev/WcfExtension/WcfExtension/Log/ServerMessageInfo.cs
+END
+IServerInfo.cs
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/SourceCode/!svn/ver/41055/Aot/Dev/WcfExtension/WcfExtension/Log/IServerInfo.cs
+END
+WcfLogProvider.cs
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/SourceCode/!svn/ver/41299/Aot/Dev/WcfExtension/WcfExtension/Log/WcfLogProvider.cs
+END
+CientStartInfo.cs
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/SourceCode/!svn/ver/41299/Aot/Dev/WcfExtension/WcfExtension/Log/CientStartInfo.cs
+END
+ServerInvokeInfo.cs
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/SourceCode/!svn/ver/41299/Aot/Dev/WcfExtension/WcfExtension/Log/ServerInvokeInfo.cs
+END
+ClientMessageInfo.cs
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/SourceCode/!svn/ver/41299/Aot/Dev/WcfExtension/WcfExtension/Log/ClientMessageInfo.cs
+END
+ServerStartInfo.cs
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/SourceCode/!svn/ver/41299/Aot/Dev/WcfExtension/WcfExtension/Log/ServerStartInfo.cs
+END
+MessageInfo.cs
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/SourceCode/!svn/ver/41055/Aot/Dev/WcfExtension/WcfExtension/Log/MessageInfo.cs
+END
+ServerExceptionInfo.cs
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/SourceCode/!svn/ver/41299/Aot/Dev/WcfExtension/WcfExtension/Log/ServerExceptionInfo.cs
+END
+IClientInfo.cs
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/SourceCode/!svn/ver/41299/Aot/Dev/WcfExtension/WcfExtension/Log/IClientInfo.cs
+END
+ClientInvokeInfo.cs
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/SourceCode/!svn/ver/41299/Aot/Dev/WcfExtension/WcfExtension/Log/ClientInvokeInfo.cs
+END
+InvokeInfo.cs
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/SourceCode/!svn/ver/41055/Aot/Dev/WcfExtension/WcfExtension/Log/InvokeInfo.cs
+END
+ClientExceptionInfo.cs
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/SourceCode/!svn/ver/41299/Aot/Dev/WcfExtension/WcfExtension/Log/ClientExceptionInfo.cs
+END
+StartInfo.cs
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/SourceCode/!svn/ver/41055/Aot/Dev/WcfExtension/WcfExtension/Log/StartInfo.cs
+END
+ExceptionInfo.cs
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/SourceCode/!svn/ver/41055/Aot/Dev/WcfExtension/WcfExtension/Log/ExceptionInfo.cs
+END

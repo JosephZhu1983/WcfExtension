@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/SourceCode/!svn/ver/41055/Aot/Dev/WcfExtension/WcfExtension/Setting
+END
+WcfClientSetting.cs
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/SourceCode/!svn/ver/41735/Aot/Dev/WcfExtension/WcfExtension/Setting/WcfClientSetting.cs
+END
+WcfSetting.cs
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/SourceCode/!svn/ver/41900/Aot/Dev/WcfExtension/WcfExtension/Setting/WcfSetting.cs
+END
+MessageInfoSetting.cs
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/SourceCode/!svn/ver/41055/Aot/Dev/WcfExtension/WcfExtension/Setting/MessageInfoSetting.cs
+END
+WcfLogSetting.cs
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/SourceCode/!svn/ver/41733/Aot/Dev/WcfExtension/WcfExtension/Setting/WcfLogSetting.cs
+END
+PasswordCheck.cs
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/SourceCode/!svn/ver/41900/Aot/Dev/WcfExtension/WcfExtension/Setting/PasswordCheck.cs
+END
+OperationDirection.cs
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/SourceCode/!svn/ver/41900/Aot/Dev/WcfExtension/WcfExtension/Setting/OperationDirection.cs
+END
+WcfServerSetting.cs
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/SourceCode/!svn/ver/41804/Aot/Dev/WcfExtension/WcfExtension/Setting/WcfServerSetting.cs
+END
+InvokeInfoSetting.cs
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/SourceCode/!svn/ver/41055/Aot/Dev/WcfExtension/WcfExtension/Setting/InvokeInfoSetting.cs
+END
+WcfSecuritySetting.cs
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/SourceCode/!svn/ver/41910/Aot/Dev/WcfExtension/WcfExtension/Setting/WcfSecuritySetting.cs
+END
+WcfCoreSetting.cs
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/SourceCode/!svn/ver/41804/Aot/Dev/WcfExtension/WcfExtension/Setting/WcfCoreSetting.cs
+END
+StartInfoSetting.cs
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/SourceCode/!svn/ver/41055/Aot/Dev/WcfExtension/WcfExtension/Setting/StartInfoSetting.cs
+END
+ExceptionInfoSetting.cs
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/SourceCode/!svn/ver/41055/Aot/Dev/WcfExtension/WcfExtension/Setting/ExceptionInfoSetting.cs
+END
+WcfSettingManager.cs
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/SourceCode/!svn/ver/41804/Aot/Dev/WcfExtension/WcfExtension/Setting/WcfSettingManager.cs
+END

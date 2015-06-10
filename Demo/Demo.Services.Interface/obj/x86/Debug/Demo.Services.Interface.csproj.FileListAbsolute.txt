@@ -1,0 +1,5 @@
+E:\works\TestProjects\WcfExtensionDemo\Demo.Services.Interface\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\works\TestProjects\WcfExtensionDemo\Demo.Services.Interface\bin\Debug\Demo.Services.Interface.dll
+E:\works\TestProjects\WcfExtensionDemo\Demo.Services.Interface\bin\Debug\Demo.Services.Interface.pdb
+E:\works\TestProjects\WcfExtensionDemo\Demo.Services.Interface\obj\x86\Debug\Demo.Services.Interface.dll
+E:\works\TestProjects\WcfExtensionDemo\Demo.Services.Interface\obj\x86\Debug\Demo.Services.Interface.pdb

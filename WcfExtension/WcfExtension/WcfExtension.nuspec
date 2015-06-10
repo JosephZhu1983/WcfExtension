@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <metadata>
+    <id>WcfExtension</id>
+    <version>1.0.0.0</version>
+    <title>WcfExtension</title>
+    <authors>5173</authors>
+    <projectUrl>http://www.5173.com</projectUrl>
+    <description>A communication framework based on Wcf</description>
+  </metadata>
+  <files>
+    <file src="bin\Release\*.dll" target="lib" />
+    <file src="bin\Release\*.transform" target="content" />
+    <file src="bin\Release\*.config" target="content" />
+  </files>
+</package>
